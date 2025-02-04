@@ -5,7 +5,6 @@ Software Engineer and Student
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
-- 📫 How to reach me :
 - 😄 Pronouns: Techie
 
 
